@@ -84,7 +84,7 @@ if page == "🏠 Home":
 
     # MAIN IMAGE
     st.image(
-    "farm.jpg",
+    "https://images.unsplash.com/photo-1500937386664-56d1dfef3854",
     width="stretch"
 )
 
