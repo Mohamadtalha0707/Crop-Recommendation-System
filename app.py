@@ -84,7 +84,7 @@ if page == "🏠 Home":
 
     # MAIN IMAGE
     st.image(
-    "C:\\Users\\talha\\Downloads\\farm.jpg",
+    "farm.jpg",
     width="stretch"
 )
 
